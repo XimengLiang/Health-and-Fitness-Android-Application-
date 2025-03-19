@@ -1,1 +1,1 @@
-THE version change in in the master (breach)
+THE version change is in the master (breach)
